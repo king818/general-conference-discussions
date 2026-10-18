@@ -1,0 +1,8 @@
+# Private notes and operating-system files
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.swp
+*.tmp
+private-notes/
