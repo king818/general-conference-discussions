@@ -1,4 +1,6 @@
-# ELDERS QUORUM — FACILITATOR CUE CARD
+# Facilitator Cue Card — Using the Language of Peacemakers
+
+One-page timing and prompt card for the 30-minute Elders Quorum discussion — see the full facilitator script for the complete lesson.
 
 **Sunday, October 25, 2026 | 30 Minutes**
 
@@ -8,13 +10,13 @@
 
 [Official Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2026/10/47kyungu?lang=eng)
 
-**CENTRAL QUESTION**
+## Central question
 
 > How can we become more like Jesus Christ by changing the words we choose, especially when conversations become difficult?
 
 ---
 
-## 0:00–4:00 | OPENING — WORDS MATTER
+## 0:00–4:00 | Opening — Words Matter
 
 **SAY:** "Our words can either strengthen relationships or damage them. Peacemaking is part of following Jesus Christ."
 
@@ -30,7 +32,7 @@
 
 ---
 
-## 4:00–12:00 | MAIN DOCTRINE — SPEAK TO EDIFY
+## 4:00–12:00 | Main Doctrine — Speak to Edify
 
 **READ:** [Ephesians 4:29](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng&id=p29#p29)
 
@@ -49,7 +51,7 @@
 
 ---
 
-## 12:00–20:00 | BOOK OF MORMON — BURY THE WEAPONS
+## 12:00–20:00 | Book of Mormon — Bury the Weapons
 
 **READ:** [Alma 24:19](https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/24?lang=eng&id=p19#p19)
 
@@ -70,7 +72,7 @@
 
 ---
 
-## 20:00–27:00 | APPLICATION — REPLACE THE WORDS
+## 20:00–27:00 | Application — Replace the Words
 
 **ACTIVITY:** Invite members to rephrase one or two statements.
 
@@ -86,7 +88,7 @@
 
 **CONNECT:** [Colossians 4:6](https://www.churchofjesuschrist.org/study/scriptures/nt/col/4?lang=eng&id=p6#p6)
 
-**WEEKLY CHALLENGE:**
+**Weekly challenge:**
 
 **Bury One Phrase. Plant One Phrase.**
 
@@ -99,7 +101,7 @@
 
 ---
 
-## 27:00–30:00 | CLOSING — CHRIST'S PEACE
+## 27:00–30:00 | Closing — Christ's Peace
 
 **READ:** [John 14:27](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p27#p27)
 
@@ -113,10 +115,10 @@
 
 ---
 
-**TIME CHECK:** 4 → 12 → 20 → 27 → 30 minutes
+**Time check:** 4 → 12 → 20 → 27 → 30 minutes
 
-**IF SHORT ON TIME:** Ephesians 4:29 → Alma 24:19 → One replacement → John 14:27.
+**If short on time:** Ephesians 4:29 → Alma 24:19 → One replacement → John 14:27.
 
-**REMEMBER:** Invite, don't lecture. Protect privacy. Welcome different perspectives. Keep Christ at the center.
+**Remember:** Invite, don't lecture. Protect privacy. Welcome different perspectives. Keep Christ at the center.
 
-**FINAL MESSAGE:** Our words can become instruments of the Savior's peace.
+**Final message:** Our words can become instruments of the Savior's peace.

@@ -1,6 +1,6 @@
-# Using the Language of Peacemakers
+# Using the Language of Peacemakers — Discussion Handout
 
-## Elders Quorum Discussion Handout
+Participant handout for the Elders Quorum discussion — scriptures, discussion questions, and this week's invitation.
 
 **Sunday, October 25, 2026**  
 **October 2026 General Conference**  
@@ -8,11 +8,23 @@
 
 [Read the Official General Conference Talk](https://www.churchofjesuschrist.org/study/general-conference/2026/10/47kyungu?lang=eng)
 
-### Our Central Question
+## Contents
+
+- [Our Central Question](#our-central-question)
+- [The Message](#the-message)
+- [1. Our Words Should Edify](#1-our-words-should-edify)
+- [2. Bury the Language of Contention](#2-bury-the-language-of-contention)
+- [3. Choose Words That Bring Peace](#3-choose-words-that-bring-peace)
+- [4. Jesus Christ Is the Prince of Peace](#4-jesus-christ-is-the-prince-of-peace)
+- [This Week's Invitation](#this-weeks-invitation)
+- [A Closing Thought](#a-closing-thought)
+- [Scripture Study for the Week](#scripture-study-for-the-week)
+
+## Our Central Question
 
 > **How can we become more like Jesus Christ by changing the words we choose, especially when conversations become difficult?**
 
-### The Message
+## The Message
 
 **Speaker's exact words:**
 
@@ -126,23 +138,23 @@ Through faith in Him, repentance, prayer, and daily practice, our hearts and wor
 
 Choose one communication habit to change during the next seven days.
 
-**STEP 1 — IDENTIFY**
+**Step 1 — Identify**
 
 What phrase or habit do I want to leave behind?
 
 ____________________________________
 
-**STEP 2 — REPLACE**
+**Step 2 — Replace**
 
 What Christlike phrase or response will I practice instead?
 
 ____________________________________
 
-**STEP 3 — PRACTICE**
+**Step 3 — Practice**
 
 Use your new response in at least one real conversation this week.
 
-**STEP 4 — REFLECT**
+**Step 4 — Reflect**
 
 At the end of each day, consider:
 
@@ -152,7 +164,7 @@ At the end of each day, consider:
 - Did I invite the Savior's peace into my conversations?
 - If I fell short, how can I repent and try again?
 
-### A Closing Thought
+## A Closing Thought
 
 **Speaker's exact words:**
 
@@ -164,7 +176,7 @@ At the end of each day, consider:
 
 ---
 
-### Scripture Study for the Week
+## Scripture Study for the Week
 
 - [Ephesians 4:29](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng&id=p29#p29) — Speak to edify.
 - [Matthew 12:34–37](https://www.churchofjesuschrist.org/study/scriptures/nt/matt/12?lang=eng&id=p34-p37#p34) — Words reflect the heart.

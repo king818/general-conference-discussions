@@ -9,6 +9,18 @@
 
 > **Source boundary:** This is an original facilitator script based on President Uchtdorf's talk, **not** a transcript of his address. All attributed quotations are brief and taken from the official source. The complete talk is available at the official Church link above. Teaching questions, transitions, and suggested testimony are facilitator-authored.
 
+## Contents
+
+- [Preparation](#preparation-before-quorum-begins)
+- [0:00–3:00 — Opening: What Holds Us Together?](#000300--opening-what-holds-us-together-3-minutes)
+- [3:00–9:00 — Our Covenants Make Us a People](#300900--our-covenants-make-us-a-people-6-minutes)
+- [9:00–16:00 — Christ Builds Bridges Across Differences](#9001600--christ-builds-bridges-across-differences-7-minutes)
+- [16:00–23:00 — The Sacrament Unites Us](#16002300--the-sacrament-unites-us-7-minutes)
+- [23:00–27:00 — Turn to a Neighbor: One Christlike Action](#23002700--turn-to-a-neighbor-one-christlike-action-4-minutes)
+- [27:00–30:00 — Invitation and Testimony](#27003000--invitation-and-testimony-3-minutes)
+- [Quick Facilitator Timing Check](#quick-facilitator-timing-check)
+- [Citations and Official English Links](#citations-and-official-english-links)
+
 ## Preparation (before quorum begins)
 
 - Read the complete address at **[T1]** and review the four talk sections cited below.

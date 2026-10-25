@@ -1,6 +1,4 @@
-# Elders Quorum — Facilitator Script
-
-## Using the Language of Peacemakers
+# Facilitator Script — Using the Language of Peacemakers (30 Minutes)
 
 **Lesson Date:** Sunday, October 25, 2026  
 **General Conference:** October 2026 — Sunday Morning Session  
@@ -9,7 +7,9 @@
 **Duration:** 30 minutes  
 **Format:** Scripture-centered, discussion-based Elders Quorum lesson
 
-### Lesson Objective
+Facilitator script for the Elders Quorum discussion of Elder Alfred Kyungu's October 2026 General Conference talk — a 30-minute, scripture-centered lesson with discussion questions and a one-week application invitation.
+
+## Lesson Objective
 
 Help quorum members recognize that peacemaking is an essential expression of discipleship to Jesus Christ, identify language that harms or heals relationships, and commit to one specific change in how they communicate during the coming week.
 
@@ -27,7 +27,7 @@ By the end of the discussion, quorum members should be able to:
 4. Practice replacing a harmful expression with a peacemaking alternative.
 5. Choose one realistic action to apply during the coming week.
 
-### Source and Quotation Conventions
+## Source and Quotation Conventions
 
 - **SPEAKER QUOTE:** Exact words spoken or written by Elder Alfred Kyungu in the official October 2026 talk.
 - **TALK PARAPHRASE:** A summary of Elder Kyungu's teachings, not his exact words.
@@ -37,6 +37,20 @@ By the end of the discussion, quorum members should be able to:
 - **SOURCE:** Official talk or scripture supporting the teaching point.
 
 ---
+
+## Contents
+
+- [Lesson Objective](#lesson-objective)
+- [Source and Quotation Conventions](#source-and-quotation-conventions)
+- [Preparation Checklist](#preparation-checklist)
+- [30-Minute Teaching Plan](#30-minute-teaching-plan)
+- [Section 1 — Opening](#section-1--opening)
+- [Section 2 — Main Doctrine](#section-2--main-doctrine)
+- [Section 3 — Second Scripture and Discussion](#section-3--second-scripture-and-discussion)
+- [Section 4 — Practical Application](#section-4--practical-application)
+- [Section 5 — Closing](#section-5--closing)
+- [Facilitator's Additional Notes](#facilitators-additional-notes)
+- [Sources](#sources)
 
 ## Preparation Checklist
 
@@ -70,7 +84,7 @@ By the end of the discussion, quorum members should be able to:
 
 ---
 
-# 30-Minute Teaching Plan
+## 30-Minute Teaching Plan
 
 | Time | Section | Primary Focus |
 |---|---|---|
@@ -84,7 +98,7 @@ By the end of the discussion, quorum members should be able to:
 
 ---
 
-## SECTION 1 — OPENING
+## Section 1 — Opening
 
 ### 0:00–4:00 | Words Can Wound or Heal
 
@@ -132,7 +146,7 @@ Invite two or three brief responses.
 
 ---
 
-## SECTION 2 — MAIN DOCTRINE
+## Section 2 — Main Doctrine
 
 ### 4:00–12:00 | Our Words Reflect Our Discipleship
 
@@ -216,7 +230,7 @@ Elder Kyungu teaches that we can deliberately identify expressions that cause co
 
 ---
 
-## SECTION 3 — SECOND SCRIPTURE AND DISCUSSION
+## Section 3 — Second Scripture and Discussion
 
 ### 12:00–20:00 | Burying the Language of Contention
 
@@ -296,7 +310,7 @@ Briefly introduce the resurrected Savior's teaching that contention is not of Hi
 
 ---
 
-## SECTION 4 — PRACTICAL APPLICATION
+## Section 4 — Practical Application
 
 ### 20:00–27:00 | Practice Speaking as Peacemakers
 
@@ -400,7 +414,7 @@ Optional private reflection:
 
 ---
 
-## SECTION 5 — CLOSING
+## Section 5 — Closing
 
 ### 27:00–30:00 | The Savior Gives Us His Peace
 
@@ -468,9 +482,9 @@ Do not require public responses.
 
 ---
 
-# Facilitator's Additional Notes
+## Facilitator's Additional Notes
 
-## If Discussion Becomes Too Quiet
+### If Discussion Becomes Too Quiet
 
 Ask one of these questions:
 
@@ -479,13 +493,13 @@ Ask one of these questions:
 - "How can we listen in a way that helps another person feel respected?"
 - "What role does humility play in peacemaking?"
 
-## If Discussion Becomes Too Long
+### If Discussion Becomes Too Long
 
 Use this transition:
 
 "Thank you for those insights. To make sure we leave time to apply this principle, let's move to one specific action we can practice this week."
 
-## If Members Disagree
+### If Members Disagree
 
 Model the principle being taught.
 
@@ -493,7 +507,7 @@ Say:
 
 "Those are different perspectives, and I appreciate the thoughtful contributions. How can we discuss differences in a way that demonstrates the language of peacemakers?"
 
-## If a Sensitive Conflict Is Raised
+### If a Sensitive Conflict Is Raised
 
 Avoid inviting details or judging the individuals involved.
 
@@ -501,7 +515,7 @@ Say:
 
 "Thank you for sharing that this can be difficult. We don't need to discuss private circumstances here. The principle we can focus on is how to communicate truthfully and respectfully while maintaining appropriate boundaries."
 
-## If Time Is Running Short
+### If Time Is Running Short
 
 Prioritize these four essentials:
 
@@ -510,7 +524,7 @@ Prioritize these four essentials:
 3. One practical replacement exercise.
 4. John 14:27 — Christ offers His peace.
 
-## Optional Deeper Doctrinal Connections
+### Optional Deeper Doctrinal Connections
 
 **Proverbs 6:16–19:** The Lord condemns lying and sowing discord.
 
@@ -528,13 +542,13 @@ These are optional extensions, not required portions of the 30-minute lesson.
 
 ---
 
-# Sources
+## Sources
 
-## Primary General Conference Talk
+### Primary General Conference Talk
 
 1. Elder Alfred Kyungu, Of the Seventy, [*Using the Language of Peacemakers*, October 2026 General Conference](https://www.churchofjesuschrist.org/study/general-conference/2026/10/47kyungu?lang=eng).
 
-## Primary Scriptures
+### Primary Scriptures
 
 2. [Ephesians 4:29 — Edifying communication](https://www.churchofjesuschrist.org/study/scriptures/nt/eph/4?lang=eng&id=p29#p29).
 
@@ -548,7 +562,7 @@ These are optional extensions, not required portions of the 30-minute lesson.
 
 7. [John 14:27 — The Savior's promise of peace](https://www.churchofjesuschrist.org/study/scriptures/nt/john/14?lang=eng&id=p27#p27).
 
-## Optional Supporting Scriptures
+### Optional Supporting Scriptures
 
 8. [Proverbs 6:16–19](https://www.churchofjesuschrist.org/study/scriptures/ot/prov/6?lang=eng&id=p16-p19#p16).
 
