@@ -6,16 +6,16 @@ A public, reusable teaching-preparation library for **General Conference-based E
 
 ## Start here
 
-**Next lesson: Sunday, November 1, 2026 — [Love Like Jesus](lessons/2026-11/2026-11-01-rasband-love-like-jesus/facilitator-script.md)** by Elder Ronald A. Rasband.
+**Next lesson: Sunday, November 8, 2026 — [Comfort from the Holy Ghost](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/facilitator-script.md)** by Elder Matthew J. Eyring.
 
-- [Complete 30-minute cited English facilitator script](lessons/2026-11/2026-11-01-rasband-love-like-jesus/facilitator-script.md)
-- [One-page facilitator cue card](lessons/2026-11/2026-11-01-rasband-love-like-jesus/cue-card.md)
-- [Discussion handout](lessons/2026-11/2026-11-01-rasband-love-like-jesus/discussion-handout.md)
-- [Post-lesson reflection template](lessons/2026-11/2026-11-01-rasband-love-like-jesus/reflection.md)
+- [Complete 30-minute cited English facilitator script](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/facilitator-script.md)
+- [One-page facilitator cue card](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/cue-card.md)
+- [Discussion handout](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/discussion-handout.md)
+- [Post-lesson reflection template](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/reflection.md)
 - [Discussion index](INDEX.md)
 - [Template for future lessons](templates/lesson-template.md)
 
-**Official talk (English):** https://www.churchofjesuschrist.org/study/general-conference/2026/10/210rasband?lang=eng
+**Official talk (English):** https://www.churchofjesuschrist.org/study/general-conference/2026/10/29eyring?lang=eng
 
 ## Organization
 
@@ -35,7 +35,12 @@ general-conference-discussions/
     │       ├── discussion-handout.md
     │       └── reflection.md
     └── 2026-11/
-        └── 2026-11-01-rasband-love-like-jesus/
+        ├── 2026-11-01-rasband-love-like-jesus/
+        │   ├── facilitator-script.md
+        │   ├── cue-card.md
+        │   ├── discussion-handout.md
+        │   └── reflection.md
+        └── 2026-11-08-eyring-comfort-from-the-holy-ghost/
             ├── facilitator-script.md
             ├── cue-card.md
             ├── discussion-handout.md
