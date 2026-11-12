@@ -6,16 +6,16 @@ A public, reusable teaching-preparation library for **General Conference-based E
 
 ## Start here
 
-**Next lesson: Sunday, November 8, 2026 — [Comfort from the Holy Ghost](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/facilitator-script.md)** by Elder Matthew J. Eyring.
+**Next lesson: Sunday, November 15, 2026 — [Prove Me Now Herewith](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/facilitator-script.md)** by Elder Moisés Villanueva.
 
-- [Complete 30-minute cited English facilitator script](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/facilitator-script.md)
-- [One-page facilitator cue card](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/cue-card.md)
-- [Discussion handout](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/discussion-handout.md)
-- [Post-lesson reflection template](lessons/2026-11/2026-11-08-eyring-comfort-from-the-holy-ghost/reflection.md)
+- [Complete 30-minute cited English facilitator script](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/facilitator-script.md)
+- [One-page facilitator cue card](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/cue-card.md)
+- [Discussion handout](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/discussion-handout.md)
+- [Post-lesson reflection template](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/reflection.md)
 - [Discussion index](INDEX.md)
 - [Template for future lessons](templates/lesson-template.md)
 
-**Official talk (English):** https://www.churchofjesuschrist.org/study/general-conference/2026/10/29eyring?lang=eng
+**Official talk (English):** https://www.churchofjesuschrist.org/study/general-conference/2026/10/53villanueva?lang=eng
 
 ## Organization
 
@@ -40,7 +40,12 @@ general-conference-discussions/
         │   ├── cue-card.md
         │   ├── discussion-handout.md
         │   └── reflection.md
-        └── 2026-11-08-eyring-comfort-from-the-holy-ghost/
+        ├── 2026-11-08-eyring-comfort-from-the-holy-ghost/
+        │   ├── facilitator-script.md
+        │   ├── cue-card.md
+        │   ├── discussion-handout.md
+        │   └── reflection.md
+        └── 2026-11-15-villanueva-prove-me-now-herewith/
             ├── facilitator-script.md
             ├── cue-card.md
             ├── discussion-handout.md
