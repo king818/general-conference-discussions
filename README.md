@@ -6,16 +6,16 @@ A public, reusable teaching-preparation library for **General Conference-based E
 
 ## Start here
 
-**Next lesson: Sunday, November 15, 2026 — [Prove Me Now Herewith](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/facilitator-script.md)** by Elder Moisés Villanueva.
+**Next lesson: Sunday, November 22, 2026 — [Come to the Lord in His Holy House](lessons/2026-11/2026-11-22-gong-come-to-the-lord-in-his-holy-house/facilitator-script.md)** by Elder Gerrit W. Gong.
 
-- [Complete 30-minute cited English facilitator script](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/facilitator-script.md)
-- [One-page facilitator cue card](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/cue-card.md)
-- [Discussion handout](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/discussion-handout.md)
-- [Post-lesson reflection template](lessons/2026-11/2026-11-15-villanueva-prove-me-now-herewith/reflection.md)
+- [Complete 30-minute cited English facilitator script](lessons/2026-11/2026-11-22-gong-come-to-the-lord-in-his-holy-house/facilitator-script.md)
+- [One-page facilitator cue card](lessons/2026-11/2026-11-22-gong-come-to-the-lord-in-his-holy-house/cue-card.md)
+- [Discussion handout](lessons/2026-11/2026-11-22-gong-come-to-the-lord-in-his-holy-house/discussion-handout.md)
+- [Post-lesson reflection template](lessons/2026-11/2026-11-22-gong-come-to-the-lord-in-his-holy-house/reflection.md)
 - [Discussion index](INDEX.md)
 - [Template for future lessons](templates/lesson-template.md)
 
-**Official talk (English):** https://www.churchofjesuschrist.org/study/general-conference/2026/10/53villanueva?lang=eng
+**Official talk (English):** https://www.churchofjesuschrist.org/study/general-conference/2026/10/12gong?lang=eng
 
 ## Organization
 
@@ -45,7 +45,12 @@ general-conference-discussions/
         │   ├── cue-card.md
         │   ├── discussion-handout.md
         │   └── reflection.md
-        └── 2026-11-15-villanueva-prove-me-now-herewith/
+        ├── 2026-11-15-villanueva-prove-me-now-herewith/
+        │   ├── facilitator-script.md
+        │   ├── cue-card.md
+        │   ├── discussion-handout.md
+        │   └── reflection.md
+        └── 2026-11-22-gong-come-to-the-lord-in-his-holy-house/
             ├── facilitator-script.md
             ├── cue-card.md
             ├── discussion-handout.md
